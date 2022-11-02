@@ -2,7 +2,7 @@
 
 100+ mini web projects using HTML, CSS and JavaScript.
 
-[See all projects on CodePen](https://codepen.io/collection/DKLgmm?grid_type=grid&sort_by=item_created_at)
+
 
 |  #  | Project                                                                | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -108,6 +108,4 @@
 | 100 | [Hulu Webpage Clone](100-hulu%20webpage%20clone)                       | [Live Demo](https://codepen.io/solygambas/full/rNmmqBy)  |
 
 
-Thank you - **[Ramesh N](https://github.com/Raam043)**
-
-
+Thank you - **[Ramesh N](https://github.com/Raam043)** ❤
